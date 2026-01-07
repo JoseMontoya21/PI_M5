@@ -1,0 +1,11 @@
+{
+  "model_name": "xgboost",
+  "best_metric": "f1_score",
+  "best_score": 0.17482517482517482,
+  "export_date": "2026-01-06T20:41:29.590570",
+  "features": 25,
+  "training_samples": 8610,
+  "test_samples": 2153,
+  "model_type": "xgboost",
+  "accuracy": 0.8903855085926614
+}
